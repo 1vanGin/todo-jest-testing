@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`отображение списка задач 1`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+@@ -230,32 +230,7 @@
+            alt="Удалить"
+            src="[object Object]"
+          />
+        </button>
+      </li>
+-     <li
+-       class="item-wrapper"
+-     >
+-       <input
+-         checked=""
+-         id="11"
+-         type="checkbox"
+-       />
+-       <label
+-         for="11"
+-       >
+-         <s>
+-           задача 11
+-         </s>
+-       </label>
+-       <button
+-         class="button button-with-icon"
+-         data-alt="Удалить"
+-       >
+-         <img
+-           alt="Удалить"
+-           src="[object Object]"
+-         />
+-       </button>
+-     </li>
+    </ul>
+  </DocumentFragment>"
+`;
